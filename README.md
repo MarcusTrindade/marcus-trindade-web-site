@@ -1,4 +1,3 @@
-# Marcus Trindade WEBSITE
+# Marcus Trindade Web Site
 
-[] Utilizar como inspiração o layout do site https://priceless-kepler-06d70c.netlify.app/#about-me
-[] Incrementar uma feature utilizando javascript
+This is my website and was inspired on website of [Ada Lovelace](https://priceless-kepler-06d70c.netlify.app/#about-me)
